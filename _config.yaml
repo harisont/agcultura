@@ -1,0 +1,18 @@
+title: Agrigento cultura (test)
+author: 
+  name: Anonimo Cittadino
+  email: anonimo.cittadino@agrigento.it
+
+description: > 
+  Sito di prova per gli eventi culturali di Agrigento
+header_pages:
+  - futuro.md
+  - presente.md
+  - passato.md
+  - calendario.md
+
+remote_theme: jekyll/minima
+
+minima:
+  skin: solarized
+  date_format: "%-d %B %Y"
