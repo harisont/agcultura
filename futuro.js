@@ -17,5 +17,5 @@ async function getICalText() {
 window.onload = function(){
     iCalText = getICalText()
     const postContent = document.getElementsByClassName("post-content")[0];
-    postContent.innerHTML = icalText
+    postContent.innerHTML = iCalText
 };
